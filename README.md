@@ -40,6 +40,7 @@ Enabled business users to explore data dynamically without technical expertise
 📂 Repository Structure
 
 Sales_analytics_dashboard_excel/
+
 ├── 📄 Sales_Dashboard.xlsx   # Main dashboard file
 
 ├── 📄 README.md              # Project documentation
