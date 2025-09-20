@@ -1,28 +1,46 @@
-# Sales_analytics_dashboard_excel
+📊 Sales Analytics Dashboard – Excel
 
-This Excel-based Sales Dashboard provides a comprehensive overview of sales performance across multiple dimensions, enabling data-driven decision-making for business growth.
+An interactive and dynamic Sales Analytics Dashboard built entirely in Microsoft Excel to analyze and visualize business sales performance.
+This project demonstrates how raw sales data can be transformed into actionable insights using Excel’s built-in tools like PivotTables, Slicers, and Charts.
 
-✅ Key Features and Metrics:
-Month Filter (Slicer):
-Interactive slicer allows users to filter data by specific months, offering a dynamic view of performance across the year.
+✨ Features
 
-Sales by City:
-Line chart displaying city-wise sales trends for Bangalore, Chennai, Cochin, and Mumbai. Helps identify top-performing regions (e.g., Mumbai leads with ₹2.85 Cr).
+📅 Month-wise Sales Analysis – View sales trends over time with easy month filters
 
-Sales by Category (Pie Chart):
-Visual breakdown of total sales by product category:
+🏙 City-wise Performance – Compare sales across multiple cities (Bangalore, Chennai, Cochin, Mumbai)
 
-Laptop: ₹3.58 Cr
+🛍 Category & Product Breakdown – Analyze sales by product categories and individual products (Laptop, Phone, Headphones, etc.)
 
-Headphone: ₹2.82 Cr
+👩‍💼 Sales Representative Leaderboard – Track performance of sales reps, identify top performers
 
-Phone: ₹2.56 Cr
+📈 Interactive Filters (Slicers) – Quickly slice and dice data by month, city, product, or sales rep
 
-Productwise Sales (Bar Chart):
-Comparison of top products by sales volume, highlighting brands like Boat, Dell, iPhone, Lenovo, and Samsung.
+🖼 Visually Rich Dashboard – Pie charts, bar charts, and trend lines for better decision-making
 
-Sales by Sales Rep (Horizontal Bar Chart):
-Performance tracking for each salesperson. "Anu" leads with ₹2.04 Cr in sales, helping recognize and reward top performers.
+🛠 Tools & Skills Used
 
-Monthwise Sales (Bar Chart):
-Tracks monthly sales trends. Peaks are visible in March and April (₹16.36 Cr and ₹15.17 Cr respectively), assisting with seasonality analysis and planning.
+Microsoft Excel – Pivot Tables, Pivot Charts, Slicers
+
+Data Cleaning – Removing duplicates, handling missing data
+
+Data Visualization – Bar Charts, Pie Charts, Line Charts for trend analysis
+
+Dashboard Design – Clean and professional layout for business reporting
+
+🎯 Insights Gained
+
+Identified top-performing cities and products driving revenue
+
+Highlighted best-performing sales representatives
+
+Spotted sales peaks in March & April, helping with demand forecasting
+
+Enabled business users to explore data dynamically without technical expertise
+
+📂 Repository Structure
+
+Sales_analytics_dashboard_excel/
+├── 📄 Sales_Dashboard.xlsx   # Main dashboard file
+├── 📄 README.md              # Project documentation
+└── 📂 Sample Data            # Sample sales dataset used for analysis
+
