@@ -41,6 +41,8 @@ Enabled business users to explore data dynamically without technical expertise
 
 Sales_analytics_dashboard_excel/
 ├── 📄 Sales_Dashboard.xlsx   # Main dashboard file
+
 ├── 📄 README.md              # Project documentation
+
 └── 📂 Sample Data            # Sample sales dataset used for analysis
 
